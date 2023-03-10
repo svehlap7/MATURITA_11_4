@@ -1,0 +1,11 @@
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\TEST_MATURA\bin\Debug\TEST_MATURA.exe.config
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\TEST_MATURA\bin\Debug\TEST_MATURA.exe
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\TEST_MATURA\bin\Debug\TEST_MATURA.pdb
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\TEST_MATURA\obj\Debug\TEST_MATURA.csproj.AssemblyReference.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\TEST_MATURA\obj\Debug\TEST_MATURA.csproj.SuggestedBindingRedirects.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\TEST_MATURA\obj\Debug\TEST_MATURA.Form1.resources
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\TEST_MATURA\obj\Debug\TEST_MATURA.Properties.Resources.resources
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\TEST_MATURA\obj\Debug\TEST_MATURA.csproj.GenerateResource.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\TEST_MATURA\obj\Debug\TEST_MATURA.csproj.CoreCompileInputs.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\TEST_MATURA\obj\Debug\TEST_MATURA.exe
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\TEST_MATURA\obj\Debug\TEST_MATURA.pdb
